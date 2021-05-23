@@ -1,0 +1,7 @@
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\bin\Debug\App Informix Avaya Synonyms.exe.config
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\bin\Debug\App Informix Avaya Synonyms.exe
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\bin\Debug\App Informix Avaya Synonyms.pdb
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\obj\Debug\App Informix Avaya Synonyms.csprojAssemblyReference.cache
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\obj\Debug\App Informix Avaya Synonyms.csproj.CoreCompileInputs.cache
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\obj\Debug\App Informix Avaya Synonyms.exe
+E:\Avaya CMS Informix Database\App Informix Avaya Synonyms\App Informix Avaya Synonyms\obj\Debug\App Informix Avaya Synonyms.pdb
